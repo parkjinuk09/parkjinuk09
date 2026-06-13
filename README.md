@@ -29,17 +29,7 @@
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KwonJH614&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=E8956D&icon_color=E8956D&text_color=ffffff)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KwonJH614&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=E8956D&text_color=ffffff)
-
-</div>
-
----
 
 ## 📬 Contacts
 
