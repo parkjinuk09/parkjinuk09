@@ -14,6 +14,6 @@
 
 ### 🛠 Skills
 
-<img src="https://skillicons.dev/icons?i=java,spring,nestjs,ts,nodejs,mysql,redis,docker,aws,nginx,react,vite,git,github,vscode,swagger" />
+<img src="https://skillicons.dev/icons?i=java,spring,nestjs,ts,nodejs,mysql,redis,docker,aws,nginx,react" />
 
 </div>
